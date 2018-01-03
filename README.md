@@ -9,14 +9,15 @@ You need Eclipse and Maven for this project.
 If you dont have install from http://toolsqa.com/java/maven/how-to-install-maven-eclipse-ide/
 
 You need one dependecy json-simple.
-
-<dependencies>
+<textbox>
+  <dependencies>
   	<dependency>
   		<groupId>com.googlecode.json-simple</groupId>
   		<artifactId>json-simple</artifactId>
   		<version>1.1.1</version>
   	</dependency>
   </dependencies>
+  </textbox>
 
 should be present in your pom.xml file of your project
 
